@@ -10,3 +10,5 @@ this script can take a variable intilization during execution.
 use
 
 python3 editmac.pay --help for more info
+
+works easy with eth0 and wlan0
